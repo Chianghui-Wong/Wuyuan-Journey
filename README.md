@@ -16,11 +16,12 @@
     + [里坑](#--)
     + [飞凤峡](#---)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## 景点
 
 ### 篁岭
+
+我觉得是目前最知名的，也是最耐玩的一个景点了。
 
 ### 思溪延村
 
